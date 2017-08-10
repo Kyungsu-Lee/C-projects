@@ -1,0 +1,9 @@
+F:\C#\PWID\PWID\bin\Debug\PWID.exe.config
+F:\C#\PWID\PWID\bin\Debug\PWID.exe
+F:\C#\PWID\PWID\bin\Debug\PWID.pdb
+F:\C#\PWID\PWID\obj\Debug\PWID.csprojResolveAssemblyReference.cache
+F:\C#\PWID\PWID\obj\Debug\PWID.Form1.resources
+F:\C#\PWID\PWID\obj\Debug\PWID.Properties.Resources.resources
+F:\C#\PWID\PWID\obj\Debug\PWID.csproj.GenerateResource.Cache
+F:\C#\PWID\PWID\obj\Debug\PWID.exe
+F:\C#\PWID\PWID\obj\Debug\PWID.pdb

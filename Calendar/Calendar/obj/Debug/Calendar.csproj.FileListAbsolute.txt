@@ -1,0 +1,10 @@
+F:\C#\Calendar\Calendar\bin\Debug\Calendar.exe.config
+F:\C#\Calendar\Calendar\bin\Debug\Calendar.exe
+F:\C#\Calendar\Calendar\bin\Debug\Calendar.pdb
+F:\C#\Calendar\Calendar\obj\Debug\Calendar.csprojResolveAssemblyReference.cache
+F:\C#\Calendar\Calendar\obj\Debug\Calendar.Properties.Resources.resources
+F:\C#\Calendar\Calendar\obj\Debug\Calendar.csproj.GenerateResource.Cache
+F:\C#\Calendar\Calendar\obj\Debug\Calendar.exe
+F:\C#\Calendar\Calendar\obj\Debug\Calendar.pdb
+F:\C#\Calendar\Calendar\obj\Debug\Calendar.Form1.resources
+F:\C#\Calendar\Calendar\obj\Debug\Calendar.Cal_menu.resources

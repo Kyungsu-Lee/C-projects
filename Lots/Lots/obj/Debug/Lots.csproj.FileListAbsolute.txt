@@ -1,0 +1,13 @@
+F:\C#\Lots\Lots\bin\Debug\Lots.exe.config
+F:\C#\Lots\Lots\bin\Debug\Lots.exe
+F:\C#\Lots\Lots\bin\Debug\Lots.pdb
+F:\C#\Lots\Lots\obj\Debug\Lots.csprojResolveAssemblyReference.cache
+F:\C#\Lots\Lots\obj\Debug\Lots.Form1.resources
+F:\C#\Lots\Lots\obj\Debug\Lots.Properties.Resources.resources
+F:\C#\Lots\Lots\obj\Debug\Lots.csproj.GenerateResource.Cache
+F:\C#\Lots\Lots\obj\Debug\Lots.exe
+F:\C#\Lots\Lots\obj\Debug\Lots.pdb
+F:\C#\Lots\Lots\bin\Debug\Lots.exe.manifest
+F:\C#\Lots\Lots\bin\Debug\Lots.application
+F:\C#\Lots\Lots\obj\Debug\Lots.exe.manifest
+F:\C#\Lots\Lots\obj\Debug\Lots.application

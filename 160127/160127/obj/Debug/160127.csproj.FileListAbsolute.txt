@@ -1,0 +1,9 @@
+F:\C#\160127\160127\bin\Debug\160127.exe.config
+F:\C#\160127\160127\bin\Debug\160127.exe
+F:\C#\160127\160127\bin\Debug\160127.pdb
+F:\C#\160127\160127\obj\Debug\160127.csprojResolveAssemblyReference.cache
+F:\C#\160127\160127\obj\Debug\_160127.Form1.resources
+F:\C#\160127\160127\obj\Debug\_160127.Properties.Resources.resources
+F:\C#\160127\160127\obj\Debug\160127.csproj.GenerateResource.Cache
+F:\C#\160127\160127\obj\Debug\160127.exe
+F:\C#\160127\160127\obj\Debug\160127.pdb
